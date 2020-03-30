@@ -2,8 +2,10 @@
 
 ## Binocular camera calibration and testing
 
-### OS:windows
-### Requared: Opencv3.2.0
+### Required:
+OS:windows
+package:Opencv3.2.0
+hardware:Only need two cameras that are parallel to each other and about fifteen centimeters apart
 ### Get Start
 
 Step1: using Checkerboard.cpp to draw a picture and print it out
